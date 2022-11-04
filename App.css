@@ -1,0 +1,13 @@
+.color{
+  color:black;
+}
+.size{
+  height: 50%;
+  width:50%;
+}
+@media screen and (min-width:480px) {
+  .heading{
+    font-size:25px;
+  }
+  
+}
